@@ -1,0 +1,2 @@
+# liquidityminingforbsc
+用于在bnbchain部署测试流动性挖矿
